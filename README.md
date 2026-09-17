@@ -17,7 +17,7 @@ A complete database for a freelance platform (similar to Upwork) that connects c
 
 ## Entity Relationship Diagram (ERD)
 
-[![Freelancing Platform ERD](https://dbdiagram.io/d/6a95a1ec5450bea1beb024db)
+[View Freelancing Platform ERD](https://dbdiagram.io/d/6a95a1ec5450bea1beb024db)
 
 ## Next Steps ⏳
 Integrate this database with a Backend API using **C#** and **ASP.NET Core**.
